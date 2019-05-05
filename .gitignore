@@ -5,3 +5,4 @@
 /coverage/
 /src/config.ts
 /.npmrc
+/*.tgz
