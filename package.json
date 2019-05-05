@@ -1,6 +1,6 @@
 {
   "name": "@yellow-snow/rate-limit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Rate Limit | Yellow Snow",
   "private": false,
   "main": "./lib/index",
