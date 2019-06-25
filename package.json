@@ -1,7 +1,7 @@
 {
-  "name": "@yellow-snow/rate-limit",
+  "name": "@yellow-snow/utils",
   "version": "0.0.0",
-  "description": "Rate Limit | Yellow Snow",
+  "description": "Utils | Yellow Snow",
   "private": false,
   "main": "./lib/index",
   "types": "./lib/index",
