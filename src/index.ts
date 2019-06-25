@@ -1,1 +1,1 @@
-export * from "./decorators/rate-limit";
+export * from "./rate-limit";
